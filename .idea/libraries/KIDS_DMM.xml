@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KIDS-DMM">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/KIDS-DMM.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
